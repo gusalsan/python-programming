@@ -36,14 +36,6 @@ This repository contains my Python solutions from Harvard's CS50x 2025 course (P
 - DNA sequence analysis: finding max consecutive substrings (STRs)  
 - Clean, modular code following CS50 style guide
 
-## How to Run
-
-Each folder contains its own Python file. Run with:
-
-```bash
-python mario_less.py
-python credit.py
-python dna.py databases/small.csv sequences/1.txt   # example for DNA
 
 # Python Crash Course – Exercises and Projects
 
@@ -65,3 +57,6 @@ python_crash_course/
 │   └── chapter_11/       # Unit testing
 ├── working_with_apis/    # API consumption (GitHub, Hacker News, etc.)
 └── learning_log/         # Full Django web application
+
+
+
