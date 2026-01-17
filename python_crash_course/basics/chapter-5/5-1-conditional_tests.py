@@ -1,0 +1,9 @@
+trabajo = "programación"
+print(trabajo == "colegio")
+print(trabajo == "programación")
+price = 1000
+print(price > 100)
+print(price < 400)
+team_of_1_division = ("celta")
+print(team_of_1_division == "depor")
+print(team_of_1_division == "celta")

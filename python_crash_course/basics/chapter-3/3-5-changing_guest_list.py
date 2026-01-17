@@ -1,0 +1,10 @@
+comida_cumpleaños = ["mama", "papa", "raquel", "ceci"]
+comida_cumpleaños[0]=("abuela")
+comida_cumpleaños[1]=("pita")
+comida_cumpleaños[2]=("padrino")
+comida_cumpleaños[3]=("madrina")
+print(f"Hola {comida_cumpleaños[0].title()} el 16 de marzo celebró mi cumpleaños en Valilongo")
+print(f"Hola {comida_cumpleaños[1].title()} el 16 de marzo celebró mi cumpleaños en Valilongo")
+print(f"Hola {comida_cumpleaños[2].title()} el 16 de marzo celebró mi cumpleaños en Valilongo")
+print(f"Hola {comida_cumpleaños[3].title()} el 16 de marzo celebró mi cumpleaños en Valilongo")
+print(f"Hola, {comida_cumpleaños} quería informaros de que seremos más el día 16")

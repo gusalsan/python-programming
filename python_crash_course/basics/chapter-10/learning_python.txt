@@ -1,0 +1,5 @@
+En Python he aprendido muchas cosas
+En Python he aprendido a hacer listas y tuples
+En Python he aprendido a trabajar con diccionarios
+En Python he aprendido a trabajar con objetos, importar clases y funciones
+En Python he trabajado los inputs, creo que es la parte que mas me ha gustado.

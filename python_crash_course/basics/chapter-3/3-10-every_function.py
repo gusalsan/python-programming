@@ -1,0 +1,21 @@
+teams= ["real madrid", "barcelona", "atletico de madrid", "celta de vigo", "deportivo de la coruña"]
+teams.append("villarreal")
+print(teams)
+teams.insert(2, "sevilla")
+print(teams)
+del teams[2]
+print(teams)
+equipo_que_no_me_gusta=teams.pop(-1)
+print(teams)
+print(equipo_que_no_me_gusta)
+teams.remove("deportivo de la coruña")
+print(teams)
+teams[0]="real madrid cf"
+print(teams)
+teams.sort()
+print(teams)
+teams.sort(reverse=True)
+print(teams)
+teams.reverse()
+print(teams)
+print(len(teams))
